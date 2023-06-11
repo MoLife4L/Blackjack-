@@ -1,4 +1,4 @@
-from BJ_Func import Deck, player_input, current_count, replay
+from bj_func import Deck, player_input, current_count, replay
 
 print("Welcome to the BlackJack Table!")
 balance = 0
